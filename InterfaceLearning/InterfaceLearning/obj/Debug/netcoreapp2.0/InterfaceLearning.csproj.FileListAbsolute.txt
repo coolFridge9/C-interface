@@ -1,0 +1,10 @@
+/Users/jordan.elley/code/interface practice/InterfaceLearning/InterfaceLearning/bin/Debug/netcoreapp2.0/InterfaceLearning.deps.json
+/Users/jordan.elley/code/interface practice/InterfaceLearning/InterfaceLearning/bin/Debug/netcoreapp2.0/InterfaceLearning.runtimeconfig.json
+/Users/jordan.elley/code/interface practice/InterfaceLearning/InterfaceLearning/bin/Debug/netcoreapp2.0/InterfaceLearning.runtimeconfig.dev.json
+/Users/jordan.elley/code/interface practice/InterfaceLearning/InterfaceLearning/bin/Debug/netcoreapp2.0/InterfaceLearning.dll
+/Users/jordan.elley/code/interface practice/InterfaceLearning/InterfaceLearning/bin/Debug/netcoreapp2.0/InterfaceLearning.pdb
+/Users/jordan.elley/code/interface practice/InterfaceLearning/InterfaceLearning/obj/Debug/netcoreapp2.0/InterfaceLearning.csproj.CoreCompileInputs.cache
+/Users/jordan.elley/code/interface practice/InterfaceLearning/InterfaceLearning/obj/Debug/netcoreapp2.0/InterfaceLearning.AssemblyInfoInputs.cache
+/Users/jordan.elley/code/interface practice/InterfaceLearning/InterfaceLearning/obj/Debug/netcoreapp2.0/InterfaceLearning.AssemblyInfo.cs
+/Users/jordan.elley/code/interface practice/InterfaceLearning/InterfaceLearning/obj/Debug/netcoreapp2.0/InterfaceLearning.dll
+/Users/jordan.elley/code/interface practice/InterfaceLearning/InterfaceLearning/obj/Debug/netcoreapp2.0/InterfaceLearning.pdb
