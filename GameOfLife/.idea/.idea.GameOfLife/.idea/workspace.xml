@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a227be5c-db34-400d-8d0b-064ca1b518fc" name="Default" comment="" />
+    <list default="true" id="1ab006ce-4603-406b-b830-a007899f78b8" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,17 +10,46 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameOfLife/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <marker date="1522096811043" expanded="true" signature="35:176" ph="{...}" />
+                <marker date="1522096811043" expanded="true" signature="55:174" ph="{...}" />
+                <marker date="1522096811043" expanded="true" signature="101:168" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnitTest1.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestProject1/UnitTest1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <folding>
+                <marker date="1522097047327" expanded="false" signature="6:26" ph="..." />
+                <marker date="1522097047327" expanded="true" signature="50:169" ph="{...}" />
+                <marker date="1522097047327" expanded="true" signature="79:167" ph="{...}" />
+                <marker date="1522097047327" expanded="true" signature="128:161" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/InterfaceLearning/ILearn.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/InterfaceLearning/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameOfLife/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestProject1/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/InterfaceLearning/ILearn.cs" />
-        <option value="$PROJECT_DIR$/InterfaceLearning/Program.cs" />
+        <option value="$PROJECT_DIR$/TestProject1/UnitTest1.cs" />
       </list>
     </option>
   </component>
@@ -31,8 +60,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-966" />
-    <option name="y" value="-1053" />
+    <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="962" />
   </component>
@@ -57,12 +85,17 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="InterfaceLearning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameOfLife (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="InterfaceLearning (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="InterfaceLearning" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameOfLife (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GameOfLife" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GameOfLife (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TestProject1" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -89,23 +122,19 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/InterfaceLearning/bin/Debug/netcoreapp2.0/InterfaceLearning.dll" />
+      <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InterfaceLearning" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="PASS_PARENT_ENVS" value="1" />
-      <envs>
-        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
-        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
-      </envs>
+      <envs />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/InterfaceLearning/InterfaceLearning.csproj" />
+      <option name="PROJECT_PATH" value="" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
-      <browser url="http://localhost:5000" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -116,17 +145,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a227be5c-db34-400d-8d0b-064ca1b518fc" name="Default" comment="" />
-      <created>1521062023187</created>
+      <changelist id="1ab006ce-4603-406b-b830-a007899f78b8" name="Default" comment="" />
+      <created>1522096792751</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1521062023187</updated>
-      <workItem from="1521062024526" duration="3205000" />
+      <updated>1522096792751</updated>
+      <workItem from="1522096794288" duration="268000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3205000" />
+    <option name="totallyTimeSpent" value="268000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -138,19 +167,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-966" y="-1053" width="1680" height="962" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="962" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -175,31 +204,27 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/InterfaceLearning/ILearn.cs">
+    <entry file="file://$PROJECT_DIR$/GameOfLife/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="34" column="57" lean-forward="true" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding>
-            <marker date="1521064761948" expanded="true" signature="6:38" ph="..." />
-            <marker date="1521064761948" expanded="true" signature="67:833" ph="{...}" />
-            <marker date="1521064761948" expanded="true" signature="104:204" ph="{...}" />
-            <marker date="1521064761948" expanded="true" signature="250:831" ph="{...}" />
-            <marker date="1521064761948" expanded="true" signature="376:471" ph="{...}" />
-            <marker date="1521064761948" expanded="true" signature="529:618" ph="{...}" />
-            <marker date="1521064761948" expanded="true" signature="665:743" ph="{...}" />
-            <marker date="1521064761948" expanded="true" signature="778:825" ph="{...}" />
+            <marker date="1522096811043" expanded="true" signature="35:176" ph="{...}" />
+            <marker date="1522096811043" expanded="true" signature="55:174" ph="{...}" />
+            <marker date="1522096811043" expanded="true" signature="101:168" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/InterfaceLearning/Program.cs">
+    <entry file="file://$PROJECT_DIR$/TestProject1/UnitTest1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        <state relative-caret-position="135">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
           <folding>
-            <marker date="1521064761945" expanded="true" signature="42:369" ph="{...}" />
-            <marker date="1521064761945" expanded="true" signature="62:367" ph="{...}" />
-            <marker date="1521064761945" expanded="true" signature="108:361" ph="{...}" />
+            <marker date="1522097047327" expanded="false" signature="6:26" ph="..." />
+            <marker date="1522097047327" expanded="true" signature="50:169" ph="{...}" />
+            <marker date="1522097047327" expanded="true" signature="79:167" ph="{...}" />
+            <marker date="1522097047327" expanded="true" signature="128:161" ph="{...}" />
           </folding>
         </state>
       </provider>
